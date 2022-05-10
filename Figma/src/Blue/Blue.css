@@ -1,0 +1,33 @@
+.blues {
+  background-color: #bcddfe;
+  border: 2px solid #bcddfe;
+}
+.content1{
+    font-weight: 400;
+font-size: 14px;
+color: #22262A;
+}
+.contents{
+    font-weight: 500;
+font-size: 18px;
+color: #22262A;
+}
+.unders{
+    border-top: 2px solid white;
+    width:72%
+}
+.info1{
+    font-weight: 400;
+font-size: 18px;
+color: #22262A;
+}
+.contentss{
+    font-weight: 400;
+font-size: 14px;
+color: #262626;
+}
+.email{
+    font-weight: 400;
+font-size: 14px;
+color: #C1C8CE;
+}

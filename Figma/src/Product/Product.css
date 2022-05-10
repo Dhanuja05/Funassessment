@@ -1,0 +1,26 @@
+
+.features{
+    color: #22262A;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+}
+.titlea{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color: #262626;
+}
+.four{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #FF4858;
+}
+.five{
+    text-decoration: line-through;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #C1C8CE;
+}

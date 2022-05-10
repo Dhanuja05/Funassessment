@@ -1,0 +1,28 @@
+.blue{
+    background-color: #40BFFF;
+    
+}
+.dark{
+    position: relative;
+    bottom:14%;
+}
+.adidas1{
+    font-weight: 500;
+    font-size: 55px;
+    color: #FFFFFF;
+}
+.perf{
+    font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+.shop{
+    font-weight: 600;
+font-size: 18px;
+color: #FFFFFF;
+}
+.boder2{
+    border-top: 2px solid white;
+    margin-left: 13%;
+    width:12%
+}
